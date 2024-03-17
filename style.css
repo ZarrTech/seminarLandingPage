@@ -139,6 +139,14 @@ body {
     border-radius: 10px;
   }
 }
+.about{
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--blue);
+   font-size: 19px;
+  text-transform: uppercase;
+  margin: 20px 40px;
+}
 
 .swiper {
   width: 200px;
