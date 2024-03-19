@@ -142,7 +142,7 @@ body {
 .about{
   text-align: center;
   text-transform: capitalize;
-  color: var(--blue);
+  color: var(--red);
    font-size: 19px;
   text-transform: uppercase;
   margin: 20px 40px;
